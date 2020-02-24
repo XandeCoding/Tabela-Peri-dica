@@ -1,0 +1,7 @@
+uvicorn[all]
+unidecode
+tinydb
+fastapi
+graphene
+tinymongo
+jinja2

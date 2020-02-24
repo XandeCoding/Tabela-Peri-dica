@@ -6,6 +6,14 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+uvicorn = "*"
+pydantic = "*"
+tinymongo = "*"
+typing = "*"
+fastapi = "*"
+graphene = "*"
+aiofiles = "*"
+Jinja2 = "*"
 
 [requires]
 python_version = "3.6"

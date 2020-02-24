@@ -1,1 +1,1 @@
-web: cd backend && python3 wsgi.py
+web: pip install -r requirements && cd backend && python3 wsgi.py

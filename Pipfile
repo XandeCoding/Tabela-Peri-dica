@@ -6,9 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pydantic = "*"
-tinymongo = "*"
-typing = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"

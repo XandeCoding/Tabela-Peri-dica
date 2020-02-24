@@ -1,0 +1,8 @@
+uvicorn
+pydantic
+tinymongo
+typing
+fastapi
+graphene
+jinja2
+aiofiles

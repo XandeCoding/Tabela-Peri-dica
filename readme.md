@@ -12,6 +12,6 @@ No Frontend usei o [Bulma](https://bulma.io/) como framework CSS o qual é bem b
 
 ![](https://xandev.codes/content/images/2020/02/graphQL.png)
 
-![alt text](https://xandev.codes/content/images/2020/02/mobile-menu.png)
+![](https://xandev.codes/content/images/2020/02/mobile-menu.png)
 
-![alt-text](https://xandev.codes/content/images/2020/02/mobile-search.png)
+![](https://xandev.codes/content/images/2020/02/mobile-search.png)

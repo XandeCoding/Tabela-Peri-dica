@@ -10,5 +10,6 @@ O backend foi feito em python com o framework [FastAPI](https://fastapi.tiangolo
 
 No Frontend usei o [Bulma](https://bulma.io/) como framework CSS o qual é bem bonito, moderno, fácil de utilizar e não deixa o app em minha opinião tão processada quanto o Bootstrap, foi utilizada a bibilioteca do [React](https://pt-br.reactjs.org/) e gostei bastante do esquema de components e de states que facilitam e que me deram bastante liberdade ao fazer o app, foi a primeira vez que utilizei então sou suspeito para falar.
 
+![](https://xandev.codes/content/images/2020/02/graphQL.png)
+
 ![alt text](https://xandev.codes/content/images/2020/02/mobile-menu.png)
-![alt text](https://xandev.codes/content/images/2020/02/graphQL.png)

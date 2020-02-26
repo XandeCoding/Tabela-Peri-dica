@@ -1,4 +1,4 @@
-# Periodic Table - React e FastAPI `:seedling:`
+# Periodic Table - React e FastAPI :seedling:
 
 Este é um projeto que venho levando há algum tempo, que fiz para que uma amiga que faz bacherelado em química pudesse consultar alguns elementos pelo celular ou computador (emocionante não?), bem fiz como estudo então algumas decisões de projeto foram feitas somente para aprendizado de alguma tecnologia como GraphQL, FastAPI e React. Há alguns pontos que devo melhorar com o passar do tempo e outras refazer totalmente, como o banco de dados, sem mais enrolação vou esclarecer alguns pontos da arquitetura do projeto caso esteja curioso.
 
@@ -12,6 +12,4 @@ No Frontend usei o [Bulma](https://bulma.io/) como framework CSS o qual é bem b
 
 ![](https://xandev.codes/content/images/2020/02/graphQL.png)
 
-![](https://xandev.codes/content/images/2020/02/mobile-menu.png)
-
-![](https://xandev.codes/content/images/2020/02/mobile-search.png)
+![](https://xandev.codes/content/images/2020/02/mobile-menu.png) ![](https://xandev.codes/content/images/2020/02/mobile-search.png)
